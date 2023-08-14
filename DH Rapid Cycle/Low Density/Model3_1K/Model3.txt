@@ -1,1 +1,1 @@
-Pool Specific Hybrid Additive Model 
+Hybrid Pool Specific Additive Model 
